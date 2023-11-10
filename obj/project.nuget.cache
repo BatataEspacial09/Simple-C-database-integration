@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "IeV8LQVodt0mqpzTGtgeKVBd9eJWjwJCqyKlcabW64DZ8GC2Mlv/UkQcO9W1Hv2s9o0buhYn8VX+Zimftjt+Wg==",
+  "success": true,
+  "projectFilePath": "D:\\Codes\\source\\repos\\POO_WF_TrabalhoFinal\\POO_WF_TrabalhoFinal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\phcri\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\phcri\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512",
+    "C:\\Users\\phcri\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
